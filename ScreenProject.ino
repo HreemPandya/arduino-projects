@@ -17,7 +17,7 @@ void loop() {
  lcd.setCursor(0,1);
  lcd.print("Purple");
 
- delay(4000);
+ delay(3000);
 
  lcd.clear();
 
@@ -27,7 +27,7 @@ void loop() {
  lcd.setCursor(0,1);
  lcd.print("Pizza");
 
- delay(4000);
+ delay(3000);
 
  lcd.clear();
 
@@ -37,7 +37,7 @@ void loop() {
  lcd.setCursor(0,1);
  lcd.print("bye");
 
- delay(4000);
+ delay(3000);
 
  lcd.clear();
 }
